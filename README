@@ -1,0 +1,19 @@
+SCENARIO(7)	       Miscellaneous Information Manual		   SCENARIO(7)
+
+[#@! INTRO]
+
+NAME
+     CLA – быстрый сумматор
+
+SYNOPSIS
+     CLA – Carry-lookahead Adder
+
+DESCRIPTION
+     Описание работы CLA сумматора.
+
+AUTHORS
+     CC0 - No Rights Reserved
+
+     Nakidai Perumenei <nakidai@disroot.org>
+
+naki				 March 3, 2025				  naki

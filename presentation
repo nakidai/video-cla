@@ -1,0 +1,51 @@
+#@! INTRO
+                 CLA
+           Быстрый сумматор
+(https://github.com/nakidai/video-cla)
+
+#@! RCADIAG
+@rca.png
+
+#@! TRANSITION
+@blobfoxthink.png
+
+#@! CLA
+CLA - Carry-lookahead Adder
+
+#@! AND
+@and.png
+
+#@! OR
+@or.png
+
+#@! XOR
+@xor.png
+
+#@! CARRY
+Ci = Gi + Pi * C{i-1}
+
+#@! CARRY1
+Ci = Gi + Pi * (G{i-1} + P{i-1} * C{i-2})
+
+#@! CARRYOPTIMIZED
+Ci = Gi + Pi * G{i-1} + Pi * P{i-1} * C{i-2}
+
+#@! CLADIAG
+@cla.png
+
+#@! OUTRO
+https://en.wikipedia.org/wiki/Carry-lookahead_adder
+
+#@! USED
+                             В видео использованы материалы:
+Схема RCA OwO
+    By Cburnett - Own work, CC BY-SA 3.0,
+    https://commons.wikimedia.org/w/index.php?curid=1477488
+Схема CLA OwO
+    By Cburnett - This W3C-unspecified vector image was created with Inkscape ., CC BY-SA 3.0,
+    https://commons.wikimedia.org/w/index.php?curid=1477525
+Эмодзи лисенка >.<
+    Apache-2.0
+    Copyright 2019 Feuerfuchs <me@feuerfuchs.dev>
+    (https://www.feuerfuchs.dev/)
+

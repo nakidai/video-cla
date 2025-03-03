@@ -1,6 +1,4 @@
-SCENARIO(7)	       Miscellaneous Information Manual		   SCENARIO(7)
-
-[#@! INTRO]
+README(7)	       Miscellaneous Information Manual		     README(7)
 
 NAME
      CLA – быстрый сумматор
@@ -11,9 +9,26 @@ SYNOPSIS
 DESCRIPTION
      Описание работы CLA сумматора.
 
+     Видео можно найти на YouTube: https://youtu.be/yyt4rzfY8ng.
+
 AUTHORS
      CC0 - No Rights Reserved
 
      Nakidai Perumenei <nakidai@disroot.org>
+
+     Здесь были использованы материалы:
+
+     •	 By
+	 Cburnett - Own work, ‘CC BY-SA 3.0’,
+	 https://commons.wikimedia.org/w/index.php?curid=1477488
+
+     •	 By
+	 Cburnett - This W3C-unspecified vector image was created with
+	 Inkscape, ‘CC BY-SA 3.0’,
+	 https://commons.wikimedia.org/w/index.php?curid=1477525
+
+     •	 Copyright 2019
+	 Feuerfuchs <me@feuerfuchs.dev> (https://www.feuerfuchs.dev/),
+	 ‘Apache-2.0’
 
 naki				 March 3, 2025				  naki
